@@ -1,0 +1,36 @@
+
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+ .main{
+    width: 100%;
+    min-height: 100vh;
+
+    background:
+        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+        url("back.png");
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+    
+
+
+.navbar{
+    width: 200px;
+    height: 75px;
+    margin:auto;
+
+}
+
+icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+}
+
+
